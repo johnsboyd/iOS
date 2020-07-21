@@ -1,6 +1,6 @@
 iOS
 ===
 
-ObjC and Swift apps
+ObjC apps
 
 seq - CS212 Final Project
